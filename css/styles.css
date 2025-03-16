@@ -808,10 +808,19 @@ button {
     fill: white;
 }
 
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+    margin-bottom: 72px;
+}
 
 .portfolio-section {
-    padding-top: 96px;
-    padding-bottom: 96px;
+    padding: 96px 0px;
 }
 
 .portfolio-ul {
